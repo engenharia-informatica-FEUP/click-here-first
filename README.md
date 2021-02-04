@@ -6,6 +6,6 @@
 * [quiz-trainer](https://github.com/MIEIC-FEUP/quiz-trainer): Ferramenta para treinar para os testes.
 
 ## Como obter acesso?
-* Para obteres acesso aos repositórios privados envia um e-mail para mieic.feup.repository@gmail.com, de preferência, com a tua conta de estudante para podermos comprovar que és de facto estudante da FEUP. 
+* Para obteres acesso aos repositórios privados envia um e-mail para mieic.feup.repository@gmail.com, de preferência, com a tua conta de estudante para podermos comprovar que és de facto estudante da FEUP. Não te esqueças de indicar a tua conta do github! 
 
 
