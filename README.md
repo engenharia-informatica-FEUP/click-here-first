@@ -11,6 +11,7 @@
 ## Grupos
 * Se quiseres, junta-te a um destes grupos onde podes tirar as tuas dúvidas ou conversar com colegas.
     * [Discord - qualquer curso da FEUP](https://discord.gg/eAUsXUX)
+    * [Discord - apenas para o MIEIC](https://discord.gg/b2Tbvpf)
     * [Facebook - grupo de dúvidas de 1º ano](https://www.facebook.com/groups/2384985988473360)
     * [Facebook - grupo de dúvidas de 2º ano](https://www.facebook.com/groups/1301602646686060)
     * [Facebook - grupo de dúvidas de 3º ano](https://www.facebook.com/groups/484082498737038)
