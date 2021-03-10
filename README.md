@@ -1,11 +1,11 @@
-# Organização FEUP-MIEIC
+# Organização Engenharia Informática FEUP
 * Aqui podes encontrar todos os recursos para o curso de Engenharia Informática da FEUP, participar em equipas para desenvolver projetos e muito mais. 
 
 ## Conteúdos
 * Recursos: Encontras aqui livros, exercícios, exames e testes resolvidos. Por motivos legais, estes repositórios são privados. Portanto, para teres acesso é necessário fazeres parte da organização. Ver [Como obter acesso?](#Como-obter-acesso)
-  * [Recursos MIEIC](https://github.com/engenharia-informatica-FEUP/Recursos-MIEIC) 
-  * [Recursos L.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-L.EIC)
-  * [Recursos M.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-M.EIC)
+  * [Recursos MIEIC](https://github.com/engenharia-informatica-FEUP/Recursos-MIEIC): Mestrado Integrado em Engenharia Informática e Computação
+  * [Recursos L.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-L.EIC): Licenciatura em Engenharia Informática e Computação
+  * [Recursos M.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-M.EIC): Mestrado em Engenharia Informática e Computação
 * [quiz-trainer](https://github.com/MIEIC-FEUP/quiz-trainer): Ferramenta para treinar para os testes.
 
 ## Como obter acesso?
