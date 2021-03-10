@@ -4,7 +4,7 @@
 ## Conteúdos
 * Recursos: Encontras aqui livros, exercícios, exames e testes resolvidos. Por motivos legais, estes repositórios são privados. Portanto, para teres acesso é necessário fazeres parte da organização. Ver [Como obter acesso?](#Como-obter-acesso)
   * [Recursos MIEIC](https://github.com/engenharia-informatica-FEUP/Recursos-MIEIC) 
-  * [Rceursos L.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-L.EIC)
+  * [Recursos L.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-L.EIC)
   * [Recursos M.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-M.EIC)
 * [quiz-trainer](https://github.com/MIEIC-FEUP/quiz-trainer): Ferramenta para treinar para os testes.
 
