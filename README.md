@@ -6,7 +6,7 @@
   * [Recursos MIEIC](https://github.com/engenharia-informatica-FEUP/Recursos-MIEIC): Mestrado Integrado em Engenharia Informática e Computação
   * [Recursos L.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-L.EIC): Licenciatura em Engenharia Informática e Computação
   * [Recursos M.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-M.EIC): Mestrado em Engenharia Informática e Computação
-* [quiz-trainer](https://github.com/MIEIC-FEUP/quiz-trainer): Ferramenta para treinar para os testes.
+* [quiz-trainer](https://github.com/engenharia-informatica-FEUP/quiz-trainer): Ferramenta para treinar para os testes.
 
 ## Grupos
 * Se quiseres, junta-te a um destes grupos onde podes tirar as tuas dúvidas ou conversar com colegas.
@@ -22,7 +22,7 @@
 ## Extras
 * [Configurar VPN - Instruções](https://www.up.pt/it/pt/servicos/redes-e-conetividade/vpn-eca13b99)
 * [Como configurar VPN da FEUP em Windows (versão rápida)](https://www.youtube.com/watch?v=pzngYxsTz3g)
-* [Instruções para matrícula nas UC's Optativas](https://github.com/MIEIC-FEUP/Recursos/blob/master/Extras/matr%C3%ADcula_optativas.md)
+* [Instruções para matrícula nas UC's Optativas](https://github.com/engenharia-informatica-FEUP/click-here-first/blob/main/Extras/matr%C3%ADcula_optativas.md)
 * [Markdown Guide](https://www.markdownguide.org/)
 * [VirtualBox tutorials](https://www.youtube.com/playlist?list=PLrpSjHQj3tT4DkBq5BEez99C1Oz0fLDSv): como instalar VirtualBox e Ubuntu, como criar uma pasta partilhada entre windows host e ubuntu guest, etc.
 
