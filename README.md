@@ -1,4 +1,4 @@
-# Organização Engenharia Informática FEUP
+# Engenharia Informática FEUP
 * Aqui podes encontrar todos os recursos para o curso de Engenharia Informática da FEUP, participar em equipas para desenvolver projetos e muito mais. 
 
 ## Conteúdos
