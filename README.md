@@ -6,7 +6,7 @@
   * [Recursos MIEIC](https://github.com/engenharia-informatica-FEUP/Recursos-MIEIC): Mestrado Integrado em Engenharia Informática e Computação
   * [Recursos L.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-L.EIC): Licenciatura em Engenharia Informática e Computação
   * [Recursos M.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-M.EIC): Mestrado em Engenharia Informática e Computação
-* [quiz-trainer](https://github.com/engenharia-informatica-FEUP/quiz-trainer): Ferramenta para treinar para os testes.
+* [quiz-trainer](https://github.com/engenharia-informatica-FEUP/quiz-trainer): Ferramenta para treinar para os testes. (inativo)
 
 ## Grupos
 * Se quiseres, junta-te a um destes grupos onde podes tirar as tuas dúvidas ou conversar com colegas.
@@ -27,11 +27,12 @@
 * [VirtualBox tutorials](https://www.youtube.com/playlist?list=PLrpSjHQj3tT4DkBq5BEez99C1Oz0fLDSv): como instalar VirtualBox e Ubuntu, como criar uma pasta partilhada entre windows host e ubuntu guest, etc.
 
 ## Como obter acesso?
-* Para obteres acesso aos repositórios privados envia um e-mail para mieic.feup.repository@gmail.com, de preferência, com a tua conta de estudante para podermos comprovar que és de facto estudante da FEUP. Não te esqueças de indicar a tua conta do github! 
+* Para obteres acesso aos repositórios privados envia um e-mail para **easy.way.out.eic.feup@gmail.com**.
+* Comprova que és estudante de engenharia informática (print da página pessoal do sigarra, por exemplo).
+* Não te esqueças de indicar a tua conta do github! 
 
 ## Contribui também!
  - Encontraste algum erro? Falta adicionar mais algum recurso ou informação? Queres contribuir com as tuas resoluções e projectos?
  - Dá por favor a tua opinião e/ou o teu contributo usando uma das seguintes opções: 
      - Fazer um pull request ou um issue.
-     - Mandar um e-mail para mieic.feup.repository@gmail.com (se preferes contribuir anonimamente)
- - Farei as alterações necessárias.
+     - Mandar um e-mail para **easy.way.out.eic.feup@gmail.com**
