@@ -6,6 +6,7 @@
   * [Recursos MIEIC](https://github.com/engenharia-informatica-FEUP/Recursos-MIEIC): Mestrado Integrado em Engenharia Informática e Computação
   * [Recursos L.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-L.EIC): Licenciatura em Engenharia Informática e Computação
   * [Recursos M.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-M.EIC): Mestrado em Engenharia Informática e Computação
+* [Associações](https://github.com/engenharia-informatica-FEUP/Associacoes/blob/main/README.md): Associações a que te podes juntar.
 * [quiz-trainer](https://github.com/engenharia-informatica-FEUP/quiz-trainer): Ferramenta para treinar para os testes. (inativo)
 
 ## Grupos
