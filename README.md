@@ -34,6 +34,7 @@
 
 ## Contribui também!
  - Encontraste algum erro? Falta adicionar mais algum recurso ou informação? Queres contribuir com as tuas resoluções e projectos?
+ - Recrutamento encontra-se aberto! Vê [aqui](Extras/Easy%20Way%20Out.pdf)!
  - Dá por favor a tua opinião e/ou o teu contributo usando uma das seguintes opções: 
      - Fazer um pull request ou um issue.
      - Mandar um e-mail para **easy.way.out.eic.feup@gmail.com**
