@@ -33,7 +33,7 @@
 * Não te esqueças de indicar a tua conta do github! 
 
 ## Contribui também!
- - Encontraste algum erro? Falta adicionar mais algum recurso ou informação? Queres contribuir com as tuas resoluções e projectos?
+ - Encontraste algum erro? Falta adicionar mais algum recurso ou informação? Queres contribuir com as tuas resoluções e projetos?
  - Recrutamento encontra-se aberto! Vê [aqui](Extras/Easy%20Way%20Out.pdf)!
  - Dá por favor a tua opinião e/ou o teu contributo usando uma das seguintes opções: 
      - Fazer um pull request ou um issue.
