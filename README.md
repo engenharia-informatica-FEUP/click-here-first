@@ -11,6 +11,9 @@ Os materiais que estão no GitHub estão agora no Accio e os conteúdos passarã
 Por estas razões, pedimos-te que te registes [aqui](https://accio.pt/) na nova plataforma!
 <br>
 <br>
+**Estamos também a recrutar pessoas para gestão de conteúdo e programadores web! Se estás interessado contacta-nos em geral@accio.pt**
+<br>
+<br>
 Qualquer dúvida, não hesites em contactar-nos. 
 <br>
 <br>
@@ -20,3 +23,4 @@ Cumprimentos, 
 Luísa Maria Mesquita 
 
 ![img](post_github.png)
+https://accio.pt/
