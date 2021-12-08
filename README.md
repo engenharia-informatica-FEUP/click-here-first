@@ -1,40 +1,22 @@
 # Engenharia Informática FEUP
-* Aqui podes encontrar todos os recursos para o curso de Engenharia Informática da FEUP, participar em equipas para desenvolver projetos e muito mais. 
 
-## Conteúdos
-* Recursos: Encontras aqui livros, exercícios, exames e testes resolvidos. Por motivos legais, estes repositórios são privados. Portanto, para teres acesso é necessário fazeres parte da organização. Ver [Como obter acesso?](#Como-obter-acesso)
-  * [Recursos MIEIC](https://github.com/engenharia-informatica-FEUP/Recursos-MIEIC): Mestrado Integrado em Engenharia Informática e Computação
-  * [Recursos L.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-L.EIC): Licenciatura em Engenharia Informática e Computação
-  * [Recursos M.EIC](https://github.com/engenharia-informatica-FEUP/Recursos-M.EIC): Mestrado em Engenharia Informática e Computação
-* [Associações](https://github.com/engenharia-informatica-FEUP/Associacoes/blob/main/README.md): Associações a que te podes juntar.
-* [quiz-trainer](https://github.com/engenharia-informatica-FEUP/quiz-trainer): Ferramenta para treinar para os testes. (inativo)
+Olá a todos! 
+<br>
+<br>
+Temos o prazer de anunciar que o Easy Way Out juntou-se ao Accio! 
+<br>
+Os materiais que estão no GitHub estão agora no Accio e os conteúdos passarão também a ser atualizados lá. Para além disso, contamos também com o apoio do núcleo de informática! 
+<br>
+<br>
+Por estas razões, pedimos-te que te registes [aqui](https://accio.pt/) na nova plataforma!
+<br>
+<br>
+Qualquer dúvida, não hesites em contactar-nos. 
+<br>
+<br>
+Cumprimentos, 
+<br>
+<br>
+Luísa Maria Mesquita 
 
-## Grupos
-* Se quiseres, junta-te a um destes grupos onde podes tirar as tuas dúvidas ou conversar com colegas.
-    * [Discord - qualquer curso da FEUP](https://discord.gg/bQp7H5vpcX)
-    * [Discord - apenas para o MIEIC](https://discord.gg/b2Tbvpf)
-    * [Discord - informações sobre transição de MIEIC para L.EIC e M.EIC](https://discord.gg/tRkuxhuHsT)
-    * [Facebook - grupo de dúvidas de 1º ano](https://www.facebook.com/groups/2384985988473360)
-    * [Facebook - grupo de dúvidas de 2º ano](https://www.facebook.com/groups/1301602646686060)
-    * [Facebook - grupo de dúvidas de 3º ano](https://www.facebook.com/groups/484082498737038)
-    * [Facebook - grupo de dúvidas de 4º ano](https://www.facebook.com/groups/1994161877497640)
-    * [Facebook - grupo de dúvidas de 5º ano](https://www.facebook.com/groups/202050890200619)
-
-## Extras
-* [Configurar VPN - Instruções](https://www.up.pt/it/pt/servicos/redes-e-conetividade/vpn-eca13b99)
-* [Como configurar VPN da FEUP em Windows (versão rápida)](https://www.youtube.com/watch?v=pzngYxsTz3g)
-* [Instruções para matrícula nas UC's Optativas](https://github.com/engenharia-informatica-FEUP/click-here-first/blob/main/Extras/matr%C3%ADcula_optativas.md)
-* [Markdown Guide](https://www.markdownguide.org/)
-* [VirtualBox tutorials](https://www.youtube.com/playlist?list=PLrpSjHQj3tT4DkBq5BEez99C1Oz0fLDSv): como instalar VirtualBox e Ubuntu, como criar uma pasta partilhada entre windows host e ubuntu guest, etc.
-
-## Como obter acesso?
-* Para obteres acesso aos repositórios privados envia um e-mail para **easy.way.out.eic.feup@gmail.com**.
-* Comprova que és estudante de engenharia informática (print da página pessoal do sigarra, por exemplo).
-* Não te esqueças de indicar a tua conta do github! 
-
-## Contribui também!
- - Encontraste algum erro? Falta adicionar mais algum recurso ou informação? Queres contribuir com as tuas resoluções e projectos?
- - Recrutamento encontra-se aberto! Vê [aqui](Extras/Easy%20Way%20Out.pdf)!
- - Dá por favor a tua opinião e/ou o teu contributo usando uma das seguintes opções: 
-     - Fazer um pull request ou um issue.
-     - Mandar um e-mail para **easy.way.out.eic.feup@gmail.com**
+[!img](post_github)
