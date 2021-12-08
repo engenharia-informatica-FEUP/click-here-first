@@ -19,4 +19,4 @@ Cumprimentos, 
 <br>
 Luísa Maria Mesquita 
 
-[!img](post_github.png)
+![img](post_github.png)
