@@ -5,7 +5,7 @@ Olá a todos! 
 <br>
 Temos o prazer de anunciar que o Easy Way Out juntou-se ao Accio! 
 <br>
-Os materiais que estão no GitHub estão agora no Accio e os conteúdos passarão também a ser atualizados lá. Para além disso, contamos também com o apoio do núcleo de informática! 
+Os materiais que estão no GitHub estão agora no Accio e os conteúdos passarão também a ser atualizados lá.
 <br>
 <br>
 Por estas razões, pedimos-te que te registes [aqui](https://accio.pt/) na nova plataforma!
